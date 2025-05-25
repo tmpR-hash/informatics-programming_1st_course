@@ -1,1 +1,1 @@
-# informatics-programming_1st_sem
+my tasks for c++ course of 1st semester
