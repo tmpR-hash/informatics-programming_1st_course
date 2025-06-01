@@ -10,5 +10,7 @@ int main() {
 	f = 0.2 * x * y + sqrt(c / z);
 	cout << f;
 	return 0;
+
+
 }
 
